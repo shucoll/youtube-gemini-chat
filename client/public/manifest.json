@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Youtube QA",
+  "description": "Youtube QA chat app",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Youtube Chat"
+  },
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  }
+}
