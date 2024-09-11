@@ -6,7 +6,7 @@ A chatbot as a chrome extension that uses transcripts from a youtube video for Q
 
 Clone the repo
 ```sh
-git clone https://github.com/shucoll/blog-app--api\
+git clone https://github.com/shucoll/youtube-gemini-chat.git
 ```
 
 ### Server Side
